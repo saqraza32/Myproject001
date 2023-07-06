@@ -122,6 +122,7 @@ WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 System.out.println(wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@id='errorMassage']"))).getText());
 
 //System.out.println(driver.findElement(By.xpath("//div[@id='errorMassage']")).getText());
+System.out.println("hello");
 driver.quit();
 	
 	
