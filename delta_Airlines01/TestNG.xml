@@ -3,7 +3,7 @@
 <suite name="Selenium MySuite"   >
  
    
-     <test name="MyFirstTest ChromeBroswr ">
+     <test name="MyFirstTest ChromeBroswr q ">
  <parameter name="BrowserName" value="Chrome"></parameter> 
        	<classes> 
        	<class name="delta_Airline.delta_Header" /> 
